@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://imusings.github.io/atom.xml" rel="self"/>
   <link href="http://imusings.github.io/"/>
-  <updated>2014-04-22T20:53:21+08:00</updated>
+  <updated>2014-04-23T22:12:38+08:00</updated>
   <id>http://imusings.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test github.io]]></title>
+    <link href="http://imusings.github.io/blog/2014/04/23/test-github-dot-io/"/>
+    <updated>2014-04-23T22:09:29+08:00</updated>
+    <id>http://imusings.github.io/blog/2014/04/23/test-github-dot-io</id>
+    <content type="html"><![CDATA[<p>HI， GITHUB.IO</p>
+]]></content>
+  </entry>
   
 </feed>
